@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <rect width="900" height="200" rx="18" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="18" fill="none" stroke="#1f2328"/>
+  <text x="48" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Pranav T</text>
+  <text x="50" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#39d353">Full-stack developer · Nucore Technologies</text>
+  <g fill="#39d353">
+    <rect x="700" y="60" width="16" height="16" rx="4" opacity="0.25"/><rect x="722" y="60" width="16" height="16" rx="4" opacity="0.5"/><rect x="744" y="60" width="16" height="16" rx="4"/><rect x="766" y="60" width="16" height="16" rx="4" opacity="0.4"/><rect x="788" y="60" width="16" height="16" rx="4" opacity="0.8"/>
+    <rect x="700" y="82" width="16" height="16" rx="4" opacity="0.6"/><rect x="722" y="82" width="16" height="16" rx="4"/><rect x="744" y="82" width="16" height="16" rx="4" opacity="0.3"/><rect x="766" y="82" width="16" height="16" rx="4" opacity="0.9"/><rect x="788" y="82" width="16" height="16" rx="4" opacity="0.2"/>
+    <rect x="700" y="104" width="16" height="16" rx="4" opacity="0.9"/><rect x="722" y="104" width="16" height="16" rx="4" opacity="0.35"/><rect x="744" y="104" width="16" height="16" rx="4" opacity="0.7"/><rect x="766" y="104" width="16" height="16" rx="4"/><rect x="788" y="104" width="16" height="16" rx="4" opacity="0.5"/>
+    <rect x="700" y="126" width="16" height="16" rx="4" opacity="0.2"/><rect x="722" y="126" width="16" height="16" rx="4" opacity="0.8"/><rect x="744" y="126" width="16" height="16" rx="4"/><rect x="766" y="126" width="16" height="16" rx="4" opacity="0.3"/><rect x="788" y="126" width="16" height="16" rx="4" opacity="0.6"/>
+  </g>
+</svg>
