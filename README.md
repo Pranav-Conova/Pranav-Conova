@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=200&section=header&text=Pranav%20T&fontSize=70&fontColor=39d353&fontAlignY=38&desc=Full-Stack%20Developer%20at%20Nucore%20Technologies&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
-</p>
+<img src="./banner.svg" width="100%" alt="Pranav T" />
 
 I build web apps with Python (FastAPI, Django) and React/TypeScript, and spend some time on automation and DSA.
 
