@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20T&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Nucore%20Technologies&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20T&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Nucore%20Technologies&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -68,23 +68,26 @@ class Pranav:
 ### 📊 GitHub dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-Conova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Pranav-Conova&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-Conova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Pranav-Conova&theme=tokyonight&hide_border=true&background=0d1117&disable_animations=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Conova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Conova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&disable_animations=true" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-Conova&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Conova&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-Conova&theme=tokyonight" />
 </p>
 
-### 🏆 Trophies
+### 🧊 3D contribution city
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-Conova&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-gitblue.svg" />
+  </picture>
 </p>
 
 ---
