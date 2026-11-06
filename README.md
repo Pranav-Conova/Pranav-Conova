@@ -8,8 +8,8 @@ I'm Pranav, a software engineer. Most of my work is on the backend with Python (
 <tr>
 <td width="50%" valign="top">
 
-**[✋ Signify](https://github.com/Pranav-Conova/Signify)**<br/>
-Run your slides with hand gestures in front of your webcam, or scan a QR code and turn your phone into a gyroscope laser pointer. Direct WebRTC link for low latency. [Live demo](https://signify-4kql.onrender.com/).<br/>
+**[✋ ppt-remote](https://github.com/Pranav-Conova/ppt-remote)**<br/>
+Run your slides with hand gestures in front of your webcam, or scan a QR code and turn your phone into a gyroscope laser pointer. Direct WebRTC link for low latency. [Live demo](https://ppt-remote.onrender.com/).<br/>
 `Go` `React` `TypeScript` `WebRTC` `MediaPipe`
 
 </td>
